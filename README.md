@@ -1081,17 +1081,17 @@ function maskify(cc) {
 
 <h1 align = "center">Результат</h1>
 
-<p align = "center"><img src="28.png" alt="result"></p>
+<p align = "center"><img src="28.PNG" alt="result"></p>
 
-<p align = "center"><img src="29.png" alt="result"></p>
+<p align = "center"><img src="29.PNG" alt="result"></p>
 
-<p align = "center"><img src="30.png" alt="result"></p>
+<p align = "center"><img src="30.PNG" alt="result"></p>
 
-<p align = "center"><img src="31.png" alt="result"></p>
+<p align = "center"><img src="31.PNG" alt="result"></p>
 
-<p align = "center"><img src="32.png" alt="result"></p>
+<p align = "center"><img src="32.PNG" alt="result"></p>
 
-<p align = "center"><img src="33.png" alt="result"></p>
+<p align = "center"><img src="33.PNG" alt="result"></p>
 
 <p align = "center">Итого мы получаем 33 программ, каждая из которых является решением соответсвующей задачи</p>
 
